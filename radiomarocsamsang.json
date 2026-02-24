@@ -1,0 +1,148 @@
+{
+  "stations": [
+    {
+      "name": "Medi 1 Radio",
+      "description": "أخبار وموسيقى من المغرب",
+      "streamUrl": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Medi1radio.jpg"
+    },
+    {
+      "name": "Hit Radio",
+      "description": "100% Hits - Maroc",
+      "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Hit%20Radio.png"
+    },
+    {
+      "name": "Radio Mars",
+      "description": "رياضة وموسيقى",
+      "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Radio%20Mars.jpg"
+    },
+    {
+      "name": "Med Radio",
+      "description": "مجتمع وثقافة",
+      "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Med_Radio_logo.svg/1200px-Med_Radio_logo.svg.png"
+    },
+    {
+      "name": "Chada FM",
+      "description": "الفن والموسيقى",
+      "streamUrl": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/chunklist_w2053981091.m3u8",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Chada_FM_logo.svg/1200px-Chada_FM_logo.svg.png"
+    },
+    {
+      "name": "MFM Radio",
+      "description": "أخبار ونقاش",
+      "streamUrl": "https://a5.asurahosting.com:7980/radio.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/MFM_Radio_logo.svg/1200px-MFM_Radio_logo.svg.png"
+    },
+    {
+      "name": "Radio Aswat",
+      "description": "مجتمع",
+      "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
+      "logoUrl": "https://www.radioaswat.com/images/logo.png"
+    },
+    {
+      "name": "Atlantic Radio",
+      "description": "اقتصاد وموسيقى",
+      "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream/1/.mp3",
+      "logoUrl": "https://www.atlanticradio.ma/images/logo.png"
+    },
+    {
+      "name": "Medina FM",
+      "description": "الموسيقى والأخبار",
+      "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+      "logoUrl": "https://www.medinafm.ma/images/logo.png"
+    },
+    {
+      "name": "Cap Radio",
+      "description": "إذاعة إقليمية",
+      "streamUrl": "https://listen.radioking.com/radio/710810/stream/776360",
+      "logoUrl": "https://www.capradio.ma/images/logo.png"
+    },
+    {
+      "name": "Radio Quran",
+      "description": "القرآن والدكر",
+      "streamUrl": "http://s2.voscast.com:12312/;.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Radio_Quran_logo.svg/1200px-Radio_Quran_logo.svg.png"
+    },
+    {
+      "name": "URADIO",
+      "description": "Urban Music",
+      "streamUrl": "http://uradio-aac.ice.infomaniak.ch/uradio.aac",
+      "logoUrl": "https://www.uradio.ma/images/logo.png"
+    },
+    {
+      "name": "Radio 2M",
+      "description": "أخبار ورياضة وموسيقى",
+      "streamUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-4-26/401b5514-f59f-7e6c-e5b6-fd72f9a5ade0.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio_2M_logo.png"
+    },
+    {
+      "name": "Zine Bladi",
+      "description": " إذاعة القرآن الكريم",
+      "streamUrl": "https://asmaki.ma:8000/radio.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/zine%20bladi.png"
+    },
+    {
+      "name": "Radio Yabiladi",
+      "description": "مزيد من الموسيقى",
+      "streamUrl": "https://radio.yabiladi.net/stream.mp3",
+      "logoUrl": "https://www.yabiladi.com/images/logo.png"
+    },
+    {
+      "name": "Radio Atbir",
+      "description": "إذاعة عالمية/مغربية",
+      "streamUrl": "https://radioatbir.radioca.st/stream",
+      "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/atbir.png"
+    },
+    {
+      "name": "Radio Plus",
+      "description": "موسيقى وأخبار",
+      "streamUrl": "https://radioplus.ice.infomaniak.ch/radioplus-high.mp3",
+      "logoUrl": "https://www.radioplus.ma/images/logo.png"
+    },
+    {
+      "name": "skyrock",
+      "description": "skyrock Casablanca",
+      "streamUrl": "https://icecast.skyrock.net/s/casa_aac_128k?tvr_name=radiofr&tvr_section1=64aac",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/skyrockcasablanca.webp"
+    },
+    {
+      "name": "Radio Sawa",
+      "description": "أخبار وموسيقى عربية",
+      "streamUrl": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio%20sawa.png"
+    },
+    {
+      "name": "rim Radio",
+      "description": " إذاعة الأخبار",
+      "streamUrl": "https://streaming.rimradio.ma/live.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio-Rim-logo.png"
+    },
+    {
+      "name": "radio tangermed",
+      "description": "إذاعة طنجة المتوسط",
+      "streamUrl": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radiotangermed.png"
+    },
+    {
+      "name": "Radio Azawan",
+      "description": "إذاعة أمازيغية",
+      "streamUrl": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radio_azawan_logo.jpeg"
+    }
+  ],
+  "ads": {
+    "admob_enabled": true,
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_interstitial_id": "ca-app-pub-394025602544/1033173712",
+    "admob_native_id": "ca-app-pub-39402562247696110",
+    "facebook_enabled": true,
+    "facebook_app_id": "1710920939885506",
+    "facebook_interstitial_id": "1710920939885506_1724154951895438",
+    "facebook_native_id": "1710920939885506_1724154181895515",
+    "interstitial_click_count": 3,
+    "native_interval": 6
+  }
+}
