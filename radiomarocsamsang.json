@@ -139,9 +139,9 @@
     "admob_interstitial_id": "ca-app-pub-6369463662612526/2460989565",
     "admob_native_id": "ca-app-pub-6369463662612526/8682782987",
     "facebook_enabled": true,
-    "facebook_app_id": "1710920939885506",
-    "facebook_interstitial_id": "1710920939885506_1724154951895438",
-    "facebook_native_id": "1710920939885506_1724154181895515",
+    "facebook_app_id": "",
+    "facebook_interstitial_id": "",
+    "facebook_native_id": "",
     "interstitial_click_count": 2,
     "native_interval": 5
   }
