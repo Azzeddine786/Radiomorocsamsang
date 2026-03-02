@@ -143,6 +143,6 @@
     "facebook_interstitial_id": "",
     "facebook_native_id": "",
     "interstitial_click_count": 2,
-    "native_interval": 5
+    "native_interval": 4
   }
 }
