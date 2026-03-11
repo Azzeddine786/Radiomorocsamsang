@@ -127,6 +127,12 @@
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radiotangermed.png"
     },
     {
+      "name": "أضواء FM",
+      "description": "أضواء FM",
+      "streamUrl": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+      "logoUrl": "https://adwaafm.com/wp-content/uploads/2023/11/adwaalogo.png"
+    },
+    {
       "name": "Radio Azawan",
       "description": "إذاعة أمازيغية",
       "streamUrl": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
