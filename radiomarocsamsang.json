@@ -80,7 +80,7 @@
     },
     {
       "name": "Zine Bladi",
-      "description": " إذاعة القرآن الكريم",
+      "description": "إذاعة القرآن الكريم",
       "streamUrl": "https://asmaki.ma:8000/radio.mp3",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/zine%20bladi.png"
     },
@@ -116,7 +116,7 @@
     },
     {
       "name": "rim Radio",
-      "description": " إذاعة الأخبار",
+      "description": "إذاعة الأخبار",
       "streamUrl": "https://streaming.rimradio.ma/live.mp3",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio-Rim-logo.png"
     },
@@ -127,16 +127,46 @@
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radiotangermed.png"
     },
     {
-      "name": "أضواء FM",
-      "description": "أضواء FM",
-      "streamUrl": "https://stream.zeno.fm/5bxh2nh0x1zuv",
-      "logoUrl": "https://adwaafm.com/wp-content/uploads/2023/11/adwaalogo.png"
-    },
-    {
       "name": "Radio Azawan",
       "description": "إذاعة أمازيغية",
       "streamUrl": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radio_azawan_logo.jpeg"
+    },
+    {
+      "name": "أضواء FM",
+      "description": "البث الرسمي لإذاعة أضواء FM - برامج متنوعة وموسيقى",
+      "streamUrl": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+      "logoUrl": "https://adwaafm.com/wp-content/uploads/2023/11/adwaalogo.png"
+    },
+    {
+      "name": "أضواء FM 2",
+      "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
+      "streamUrl": "https://stream.zeno.fm/vrrtqsh0x1zuv",
+      "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/sax28w3r9x4a.png"
+    },
+    {
+      "name": "أضواء FM 3",
+      "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
+      "streamUrl": "https://stream.zeno.fm/x4451xh0x1zuv",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQOUVHszFsriAQC0zumT-wFJZuRlHZsTjhh1KYbKJELwfYr-JTObfbTs&s=10"
+    },
+    {
+      "name": "أضواء FM 4",
+      "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
+      "streamUrl": "http://stream.zeno.fm/8wrs2bh0x1zuv",
+      "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/nwanbpafczez.png"
+    },
+    {
+      "name": "أضواء FM 5",
+      "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
+      "streamUrl": "http://stream.zeno.fm/ezxx195gq2zuv",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM21lSWNXBYKLQckCr9khdOijwuo9iIkJFGucul-gIpg&s=10"
+    },
+    {
+      "name": "أضواء FM 6",
+      "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
+      "streamUrl": "https://stream.zeno.fm/tvxvud2kpm0uv",
+      "logoUrl": "https://radio-maroc-live.com/storage/radios/23446/64451/conversions/EPJ8UXYZsa7Cx3fMWPId7ZvuBzWg16-metaYWR3YWFmbTYucG5n--lg.webp"
     }
   ],
   "ads": {
