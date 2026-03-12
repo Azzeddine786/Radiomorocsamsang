@@ -87,7 +87,7 @@
     {
       "name": "Radio Yabiladi",
       "description": "مزيد من الموسيقى",
-      "streamUrl": "https://radio.yabiladi.net/stream.mp3",
+      "streamUrl": "http://media.yabiladi.com:8000/stream",
       "logoUrl": "https://www.yabiladi.com/images/logo.png"
     },
     {
