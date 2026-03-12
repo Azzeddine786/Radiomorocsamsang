@@ -7,6 +7,12 @@
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Medi1radio.jpg"
     },
     {
+      "name": "Medi 1 Andalouse",
+      "description": "أجمل الأغاني الأندلسية والمغربية",
+      "streamUrl": "https://live.medi1.com/Andalouse",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/andalouse.jpg?123"
+    },
+    {
       "name": "Hit Radio",
       "description": "100% Hits - Maroc",
       "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
