@@ -167,6 +167,96 @@
       "description": "قناة إذاعية متنوعة من شبكة أضواء FM",
       "streamUrl": "https://stream.zeno.fm/tvxvud2kpm0uv",
       "logoUrl": "https://radio-maroc-live.com/storage/radios/23446/64451/conversions/EPJ8UXYZsa7Cx3fMWPId7ZvuBzWg16-metaYWR3YWFmbTYucG5n--lg.webp"
+    },
+    {
+      "name": "HIT RADIO Burkina Faso",
+      "description": "HIT RADIO - Burkina Faso",
+      "streamUrl": "https://hr-burkina.ice.infomaniak.ch/hr-burkina-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/new_burkinafaso-2.c813f412.png"
+    },
+    {
+      "name": "HIT RADIO Centrafrique",
+      "description": "HIT RADIO - Centrafrique",
+      "streamUrl": "https://hr-rca.ice.infomaniak.ch/hr-rca-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/img_centrafrique-2.c1117e39.png"
+    },
+    {
+      "name": "HIT RADIO Congo",
+      "description": "HIT RADIO - Congo",
+      "streamUrl": "https://hr-congobrazza.ice.infomaniak.ch/hr-congobrazza-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/congo.d79d6f80.png"
+    },
+    {
+      "name": "HIT RADIO Côte d'Ivoire",
+      "description": "HIT RADIO - Côte d'Ivoire",
+      "streamUrl": "https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/image-cote-devoir-2.db70765b.png"
+    },
+    {
+      "name": "HIT RADIO Gabon",
+      "description": "HIT RADIO - Gabon",
+      "streamUrl": "https://hr-gabon.ice.infomaniak.ch/hr-gabon-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/img_gabon-2.257aa39e.png"
+    },
+    {
+      "name": "HIT RADIO Niger",
+      "description": "HIT RADIO - Niger",
+      "streamUrl": "https://hr-niger.ice.infomaniak.ch/hr-niger-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/img_niger-2.d9ef6a90.png"
+    },
+    {
+      "name": "HIT RADIO Tchad",
+      "description": "HIT RADIO - Tchad",
+      "streamUrl": "https://hr-tchad.ice.infomaniak.ch/hr-tchad-128.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/HIT_RADIO_TCHAD-2.d1a48990.png"
+    },
+    {
+      "name": "HIT RADIO Togo",
+      "description": "HIT RADIO - Togo",
+      "streamUrl": "https://hrtogo.ice.infomaniak.ch/hr-togo-20.mp3",
+      "logoUrl": "https://www.hitradio.ma/_next/static/media/new_togo-2.08a554c6.png"
+    },
+    {
+      "name": "HIT RADIO 100% MARRUECOS ESPAÑA",
+      "description": "HIT RADIO - Marruecos España",
+      "streamUrl": "https://marruecosespana.ice.infomaniak.ch/marruecosespana-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100--Marruecos-Espa%C3%B1a.jpeg"
+    },
+    {
+      "name": "HIT RADIO 100% CLASSIC",
+      "description": "HIT RADIO - 100% Classic",
+      "streamUrl": "https://gold.ice.infomaniak.ch/gold-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__CLASSIC.jpg"
+    },
+    {
+      "name": "HIT RADIO 100% PARTY",
+      "description": "HIT RADIO - 100% Party",
+      "streamUrl": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__PARTY.jpg"
+    },
+    {
+      "name": "HIT RADIO 100% MGHARBA",
+      "description": "HIT RADIO - 100% Mgharba",
+      "streamUrl": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__MGHARBA.jpg"
+    },
+    {
+      "name": "HIT RADIO 100% TIKTOK",
+      "description": "HIT RADIO - 100% TikTok",
+      "streamUrl": "https://buzz.ice.infomaniak.ch/buzz-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg"
+    },
+    {
+      "name": "HIT RADIO 100% URBAN",
+      "description": "HIT RADIO - 100% Urban",
+      "streamUrl": "https://rnb.ice.infomaniak.ch/rnb-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__URBAN.jpg"
+    },
+    {
+      "name": "HIT RADIO 100% WAY WAY",
+      "description": "HIT RADIO - 100% Way Way",
+      "streamUrl": "https://wayway.ice.infomaniak.ch/wayway-128.mp3",
+      "logoUrl": "https://hittradio.com/uploads/webradio/100__WAY_WAY.jpg"
     }
   ],
   "ads": {
