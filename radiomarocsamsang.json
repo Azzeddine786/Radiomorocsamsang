@@ -13,6 +13,72 @@
       "logoUrl": "https://bridge.medi1.com/images/webradios/new/andalouse.jpg?123"
     },
     {
+      "name": "Medi 1 Soufi",
+      "description": "الإنشاد الصوفي والروحاني",
+      "streamUrl": "https://live.medi1.com/Soufi",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/soufi.jpg?123"
+    },
+    {
+      "name": "Medi 1 Nayda",
+      "description": "إيقاعات الشباب المغربي العصرية",
+      "streamUrl": "https://live.medi1.com/Nayda",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/nayda.jpg?123"
+    },
+    {
+      "name": "Medi 1 Tarab",
+      "description": "أجمل الطرب الأصيل",
+      "streamUrl": "https://live.medi1.com/Tarab",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/tarab.jpg?123"
+    },
+    {
+      "name": "Medi 1 Classique",
+      "description": "الموسيقى الكلاسيكية العالمية",
+      "streamUrl": "https://live.medi1.com/Classique",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/classique.jpg?123"
+    },
+    {
+      "name": "Medi 1 Acoustic",
+      "description": "أجواء أكوستيك هادئة",
+      "streamUrl": "https://live.medi1.com/Acoustic",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/acoustic.jpg?123"
+    },
+    {
+      "name": "Medi Latino",
+      "description": "إيقاعات لاتينية مميزة",
+      "streamUrl": "https://live.medi1.com/Latino",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/latino.jpg?123"
+    },
+    {
+      "name": "Medi 1 Lounge",
+      "description": "موسيقى استرخاء وأجواء عصرية",
+      "streamUrl": "https://live.medi1.com/Lounge",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/lounge.jpg?123"
+    },
+    {
+      "name": "Medi 1 Hits",
+      "description": "أحدث الأغاني العالمية",
+      "streamUrl": "https://live.medi1.com/Hits",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/hits.jpg?123"
+    },
+    {
+      "name": "Medi 1 Jazz",
+      "description": "موسيقى الجاز العريقة",
+      "streamUrl": "https://live.medi1.com/Jazz",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/jazz.jpg?123"
+    },
+    {
+      "name": "Medi 1 Française",
+      "description": "أغاني فرنسية متنوعة",
+      "streamUrl": "https://live.medi1.com/Francaise",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/chanson%20fran%C3%A7aise.jpg?123"
+    },
+    {
+      "name": "Medi 1 DJ",
+      "description": "ميكسات وأجواء الدي جي",
+      "streamUrl": "https://live.medi1.com/Dj",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/dj.jpg?123"
+    },
+    {
       "name": "Hit Radio",
       "description": "100% Hits - Maroc",
       "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
